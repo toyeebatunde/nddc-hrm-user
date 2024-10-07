@@ -1,0 +1,23 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:eu-central-1:903322290405:repository/nddc",
+        "registryId": "903322290405",
+        "repositoryName": "nddc",
+        "repositoryUri": "903322290405.dkr.ecr.eu-central-1.amazonaws.com/nddc",
+        "repositoryUri": "903322290405.dkr.ecr.eu-central-1.amazonaws.com/nddc",
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:eu-central-1:903322290405:repository/nddc",
+        "registryId": "903322290405",
+        "repositoryName": "nddc",
+        "repositoryUri": "903322290405.dkr.ecr.eu-central-1.amazonaws.com/nddc",
+        "createdAt": "2024-09-27T17:16:13.281000+01:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": false
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}

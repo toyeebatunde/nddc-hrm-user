@@ -1,0 +1,57 @@
+package co.payrail.attendance_srv.integration.dojah.model.validatenin;
+
+import lombok.Data;
+
+public @Data class ValidateNinResponse{
+	private String birthdate;
+	private String nin;
+	private String telephoneno;
+	private String othername;
+	private String nspokenlang;
+	private String state;
+	private String height;
+	private String trackingId;
+	private String profession;
+	private String nokFirstname;
+	private String residencestatus;
+	private String selfOriginState;
+	private String residenceState;
+	private String nokState;
+	private String nokMiddlename;
+	private String selfOriginLga;
+	private String nationality;
+	private String maritalstatus;
+	private String nokLga;
+	private String maidenname;
+	private String firstname;
+	private String gender;
+	private String signature;
+	private String pmiddlename;
+	private String title;
+	private String pfirstname;
+	private String nokLastname;
+	private String employmentstatus;
+	private String surname;
+	private String place;
+	private String email;
+	private String educationallevel;
+	private String birthcountry;
+	private String nokAddress2;
+	private String nokAddress1;
+	private String nokPostalcode;
+	private String middlename;
+	private String photo;
+	private String religion;
+	private String ospokenlang;
+	private String centralID;
+	private String documentno;
+	private String selfOriginPlace;
+	private String birthstate;
+	private String psurname;
+	private String nokTown;
+	private String residenceLga;
+	private String residenceAddressLine2;
+	private String residenceAddressLine1;
+	private String residenceTown;
+	private String error;
+}
