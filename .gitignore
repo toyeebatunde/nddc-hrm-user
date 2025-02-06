@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+# Ignore property files with sensitive data
+application-prod.properties
+application-staging.properties
